@@ -4,7 +4,7 @@ Backend Node JS Mongoose du groupe 28 pour le projet angular
 
 ## Démarrage et fonctionnement du projet dans un autre ordinateur 
     Après avoir téléchargé le projet,ouvrez :
-	 le  dossier pour le front et faites npm install , puis faites node server.js
+	 le  dossier pour le back et faites npm install , puis faites node server.js
 	
     Membres du groupe 28 : 
     . RAFANOMEZANA Tahiry Bakolitsiky n°15
